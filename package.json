@@ -1,0 +1,16 @@
+{
+  "name": "diablotacos",
+  "version": "1.0.0",
+  "main": "tacos.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Katy, Edison",
+  "license": "ISC",
+  "description": "Tacos truck",
+  "dependencies": {
+    "express": "^5.1.0",
+    "mongodb": "^6.16.0"
+  }
+}
