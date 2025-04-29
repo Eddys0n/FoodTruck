@@ -1,6 +1,6 @@
 
 const { MongoClient, ObjectId}= require('mongodb')
-const {uri}= require("./.secrets/.mongodb.json")
+const {uri}= require("./secrets/mongodb.json")
 
 const client = new MongoClient(uri)
 
