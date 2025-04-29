@@ -46,8 +46,14 @@ body {
     text-align: center;
     }
 
+    p {
+        background-color: black;
+        text-align: center;
+        color: white;
+    }
+
     div {
-        background-color:black;
+        background-color: black;
         text-decoration-color: red;
         text-align: center;
     }
@@ -59,6 +65,7 @@ body {
         align-items: center;
         gap: 10px;
         margin-top: 10px;
+
         }
     footer {
     background-color: black;
