@@ -1,0 +1,13 @@
+@api=http://localhost:3010/api/v1
+
+
+
+POST {{api}}/menu
+
+Content-Type: application/json
+{
+    "name": "TestEvent",
+    "description": "Test",
+    "price": "test",
+    "img": "test"
+}
