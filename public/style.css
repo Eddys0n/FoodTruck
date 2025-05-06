@@ -45,6 +45,13 @@ body {
     color: rgb(26, 156, 14);
     text-align: center;
     }
+    h2 {
+        text-align: center;
+    }
+
+    h3 {
+        text-align: center;
+    }
 
     p {
         background-color: black;
@@ -53,20 +60,11 @@ body {
     }
 
     div {
-        background-color: black;
+        background-color: white;
         text-decoration-color: red;
         text-align: center;
     }
 
-
-    #buttons {
-        display: flex;
-        justify-content: center;
-        align-items: center;
-        gap: 100px;
-        margin-top: 10px;
-
-        }
     footer {
     background-color: black;
     color: rgb(26, 156, 14);
