@@ -11,3 +11,13 @@ Content-Type: application/json
     "price": "test",
     "img": "test"
 }
+
+POST {{api}}/events
+
+Content-Type: application/json
+{
+    "name": "TestEvent",
+    "Location": "Test",
+    "date:": "test",
+    "time": "test"
+}
