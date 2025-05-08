@@ -43,8 +43,8 @@
         descriptionMenu.textContent = description
         precioMenu.textContent = price
         imagenMenu.src = img
-        imagenMenu.width = 756
-        imagenMenu.height = 700
+        imagenMenu.width = 350
+        imagenMenu.height = 350
         
         containerMenu.appendChild(nameMenu)
         containerMenu.appendChild(descriptionMenu)
